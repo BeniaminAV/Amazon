@@ -5,7 +5,7 @@ My application built with NextJs is an online store that enables users to log in
 
 *If you press the demo button and it doesn't work right away, please refresh because it's not the best host. Thank you kindly for your understanding.
 
-1. Main Page
+1. Main Page 
 
 ![1](https://user-images.githubusercontent.com/57075208/220946722-9dd73f7d-0a47-401b-91f8-2dcc97a8dc83.png)
 
